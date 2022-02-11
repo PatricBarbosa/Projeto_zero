@@ -76,14 +76,14 @@ section > p{
 }
 
 #img01{
-    background-image: url(/img/background001.jpg);
+    background-image: url(/Projeto_zero/img/background001.jpg);
     background-position: right center;
     background-attachment: fixed;
     background-size: cover;
 }
 
 #img02{
-    background-image: url(/img/background002.jpg);
+    background-image: url(/Projeto_zero/img/background002.jpg);
     background-size: right center;
     background-attachment: fixed;
     background-size: cover
