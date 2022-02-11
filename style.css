@@ -76,7 +76,7 @@ section > p{
 }
 
 #img01{
-    background-image: url(../img/background001.jpg);
+    background-image: url(./img/background001.jpg);
     background-position: right center;
     background-attachment: fixed;
     background-size: cover;
